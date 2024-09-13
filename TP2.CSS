@@ -1,0 +1,22 @@
+
+#bandeau {
+    background-color: green;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+
+#grandediv{
+    background-color: cyan;
+    width: 100%;
+    height: 650px;
+    float: left;
+    
+}
+
+#foot{
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    float: left;
+}
