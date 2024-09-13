@@ -13,12 +13,23 @@
     float: left;
 }
 
+#menuHaut{
+    background-color: orange;
+    width: 100%;
+    height: 325px;
+}
+
+#menuBas{
+    background-color: purple;
+    width: 100%;
+    height: 325px;
+}
+
 #grandediv{
     background-color: cyan;
     width: 75%;
     height: 650px;
     float: left;
-    
 }
 
 #foot{
