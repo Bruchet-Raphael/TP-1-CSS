@@ -6,9 +6,16 @@
     float: left;
 }
 
+#menu{
+    background-color: orange;
+    width: 25%;
+    height: 650px;
+    float: left;
+}
+
 #grandediv{
     background-color: cyan;
-    width: 100%;
+    width: 75%;
     height: 650px;
     float: left;
     
