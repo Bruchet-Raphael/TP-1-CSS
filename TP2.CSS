@@ -54,3 +54,15 @@
 #contenu{
     font-size: 50px;
 }
+
+#exo5-1{
+    font-size: 30px;
+    color: red;
+    display: inline-block;
+}
+
+#exo5-2{
+    font-size: 20px;
+    color: blue;
+    display: inline-block;
+}
