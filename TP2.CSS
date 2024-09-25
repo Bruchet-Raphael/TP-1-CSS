@@ -38,3 +38,10 @@
     height: 100px;
     float: left;
 }
+
+#news{
+    background-color: red;
+    float: right;
+    height: 50%;
+    width: 25%;
+}
